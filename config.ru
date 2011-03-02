@@ -1,3 +1,3 @@
-require 'cas_application'
+require './cas_application'
 
 run Sinatra::Application
